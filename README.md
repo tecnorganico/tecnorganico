@@ -25,13 +25,15 @@
 
 <p align="left">
   <strong>Mais sobre como vivo e cultivo meus jardins digitais abaixo:</strong>
-  
+</p>  
+
+<p align="left">
   <a href="https://www.instagram.com/tecnorganico/" alt="Instagram">
   <img src="https://img.shields.io/badge/-instagram-ff69b4"/></a>
 
   <a href="https://twitter.com/tecnorganico" alt="Twitter">
   <img src="https://img.shields.io/badge/-twitter-blue" /></a>
+</p>
 
   *If you speak english, welcome!*
   *I'd love to invite you to learn a few words in portuguese translating this README to your favorite spoken language.*
-</p>  
