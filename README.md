@@ -3,7 +3,7 @@
 ### E aí, tranquilo? Boas-vindas 🌱
 
 <p align="left"> 
-  🔭 A maioria dos repositórios aqui são sobre exercícios práticos em HTML e CSS, uma arranhadinha em JavaScript e "empurrões" feitos durante o percurso de aprendizagem do CS50x, um excelente ciclo formativo de Harvard que pode ser acessado na versão original em inglês <a href="https://cs50.harvard.edu/x/2021/">aqui</a> e na versão traduzida por [aqui](https://cs50xemportugues.github.io/2020/).
+  🔭 A maioria dos repositórios aqui são sobre exercícios práticos em HTML e CSS, uma arranhadinha em JavaScript e "empurrões" feitos durante o percurso de aprendizagem do CS50x, um excelente ciclo formativo de Harvard que pode ser acessado na versão original em inglês <a href="https://cs50.harvard.edu/x/2021/">aqui</a> e na versão traduzida por <a href="https://cs50xemportugues.github.io/2020/">aqui</a>.
 </p>
 
 <p align="left">
@@ -27,6 +27,9 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  <a href="https://www.instagram.com/tecnorganico/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-instagram-ff69b4"/></a>
+
+  <a href="https://twitter.com/tecnorganico" alt="Twitter">
+  <img src="https://img.shields.io/badge/-twitter-blue" /></a>
 </p>  
