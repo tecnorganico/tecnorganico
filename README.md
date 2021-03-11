@@ -15,21 +15,23 @@
 </p>
 
 <p align="left">
-  **Mais sobre o que faço e como vivo nas redes abaixo:**
+  <strong> Mais sobre o que faço profissional nas redes abaixo: </strong>
 
   - linkedin: [/in/ramiresbaptista](https://www.linkedin.com/in/ramiresbaptista/)
   - ubuntu_labe: [site informacional](https://ubuntulabe.org/) 
   - itsrio: [site institucional](https://itsrio.org/)
   - 🤔 blogue pessoal: [Anotado](https://anotado.hashnode.dev/)
-
-  *If you speak english, welcome!*
-  *I'd love to invite you to learn a few words in portuguese translating this README to your favorite spoken language.*
 </p>
 
 <p align="left">
+  <strong>Mais sobre como vivo e cultivo meus jardins digitais abaixo:</strong>
+  
   <a href="https://www.instagram.com/tecnorganico/" alt="Instagram">
   <img src="https://img.shields.io/badge/-instagram-ff69b4"/></a>
 
   <a href="https://twitter.com/tecnorganico" alt="Twitter">
   <img src="https://img.shields.io/badge/-twitter-blue" /></a>
+
+  *If you speak english, welcome!*
+  *I'd love to invite you to learn a few words in portuguese translating this README to your favorite spoken language.*
 </p>  
