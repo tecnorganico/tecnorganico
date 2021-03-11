@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  [Lista de lugares para buscar oportunidades em tecnologia](https://anotado.hashnode.dev/a-procura-da-vaguinha-perfeita)
+  <a href="https://anotado.hashnode.dev/a-procura-da-vaguinha-perfeita">Lista de lugares para buscar oportunidades em tecnologia</a>
 </p>
 
 <p align="left">
