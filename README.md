@@ -19,8 +19,7 @@
 
   - linkedin: [/in/ramiresbaptista](https://www.linkedin.com/in/ramiresbaptista/)
   - ubuntu_labe: [site informacional](https://ubuntulabe.org/) 
-  - itsrio: [site institucional](https://itsrio.org/)
-  - 🤔 blogue pessoal: [Anotado](https://anotado.hashnode.dev/)
+ - 🤔 blogue pessoal: [Anotado](https://anotado.hashnode.dev/)
 </p>
 
 <p align="left">
