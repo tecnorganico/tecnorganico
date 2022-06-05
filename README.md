@@ -18,7 +18,7 @@
   <strong> Mais sobre o que faço profissionalmente nas mídias e nas redes: </strong>
 
   - linkedin: [/in/ramiresbaptista](https://www.linkedin.com/in/ramiresbaptista/)
-  - ubuntu_labe: [reportagem no OGerúndio]([https://ubuntulabe.org/](https://ogerundiosempadrao.wixsite.com/website/post/ubuntu-inova%C3%A7%C3%A3o)) 
+  - ubuntu_labe: [reportagem no OGerúndio](https://ogerundiosempadrao.wixsite.com/website/post/ubuntu-inova%C3%A7%C3%A3o) 
   - infocria: [reportagem no Observatório de Favela](https://observatoriodefavelas.org.br/narrativas-perifericas-construcoes-coletivas-de-jovens-em-busca-de-exercer-cidadania-plena/)
   - infocria: [reportagem na Ponte Jornalismo no Portal Terra](https://www.terra.com.br/comunidade/visao-do-corre/organizacoes-perifericas-montam-rede-para-ensinar-tecnologia,47916e3cc004094a03bb8c9ffeeea04bgd2rrnry.html)
 </p>
