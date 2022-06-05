@@ -19,7 +19,7 @@
 
   - linkedin: [/in/ramiresbaptista](https://www.linkedin.com/in/ramiresbaptista/)
   - ubuntu_labe: [reportagem no OGerúndio](https://ogerundiosempadrao.wixsite.com/website/post/ubuntu-inova%C3%A7%C3%A3o) 
-  - ubuntu_labe: [reṕrtagem no Projeto Colabora](https://projetocolabora.com.br/ods11/um-cidade-mais-inteligente-tambem-para-pretos-e-pardos/)
+  - ubuntu_labe: [reportagem no Projeto Colabora](https://projetocolabora.com.br/ods11/um-cidade-mais-inteligente-tambem-para-pretos-e-pardos/)
   - infocria: [reportagem no Observatório de Favela](https://observatoriodefavelas.org.br/narrativas-perifericas-construcoes-coletivas-de-jovens-em-busca-de-exercer-cidadania-plena/)
   - infocria: [reportagem na Ponte Jornalismo no Portal Terra](https://www.terra.com.br/comunidade/visao-do-corre/organizacoes-perifericas-montam-rede-para-ensinar-tecnologia,47916e3cc004094a03bb8c9ffeeea04bgd2rrnry.html)
 </p>
