@@ -3,11 +3,11 @@
 ### E aí, tranquilo? Boas-vindas 🌱
 
 <p align="left"> 
-  🔭 A maioria dos repositórios aqui são sobre exercícios práticos em HTML e CSS, uma arranhadinha em JavaScript e "empurrões" feitos durante o percurso de aprendizagem do CS50x, um excelente ciclo formativo de Harvard que pode ser acessado na versão original em inglês <a href="https://cs50.harvard.edu/x/2021/">aqui</a> e na versão traduzida por <a href="https://cs50xemportugues.github.io/2020/">aqui</a>.
+  🔭 A maioria dos repositórios aqui são sobre exercícios práticos em HTML e CSS, uma arranhadinha em JavaScript.
 </p>
 
 <p align="left">
-  💬 Sou uma pessoa em formação tecnológica computacional e educacional, aprendendo como aprender e contribuindo com diferentes ações comunitárias, sociais e de trabalho mermo. 
+  💬 Pode me chamar de Ramires, sou um educador popular(mas não famoso) em tecnologia. Estudo Tecnologias Educacionais na graduação e trabalho ativamente pela construção de uma educação tecnológica popular, por meio do coletivo <a href="https://github.com/InfoCria">InfoCria</a>, pesquisando e educando tecnologia para minha comunidade em Imbariê e quando possível em outras favelas do Rio. Atualmente sou educador na Redes da Maré e no Instituto Bola Pra Frente. 
 </p>
 
 <p align="left">
@@ -15,11 +15,12 @@
 </p>
 
 <p align="left">
-  <strong> Mais sobre o que faço profissional nas redes abaixo: </strong>
+  <strong> Mais sobre o que faço profissionalmente nas mídias e nas redes: </strong>
 
   - linkedin: [/in/ramiresbaptista](https://www.linkedin.com/in/ramiresbaptista/)
-  - ubuntu_labe: [site informacional](https://ubuntulabe.org/) 
- - 🤔 blogue pessoal: [Anotado](https://anotado.hashnode.dev/)
+  - ubuntu_labe: [reportagem no OGerúndio]([https://ubuntulabe.org/](https://ogerundiosempadrao.wixsite.com/website/post/ubuntu-inova%C3%A7%C3%A3o)) 
+  - infocria: [reportagem no Observatório de Favela](https://observatoriodefavelas.org.br/narrativas-perifericas-construcoes-coletivas-de-jovens-em-busca-de-exercer-cidadania-plena/)
+  - infocria: [reportagem na Ponte Jornalismo no Portal Terra](https://www.terra.com.br/comunidade/visao-do-corre/organizacoes-perifericas-montam-rede-para-ensinar-tecnologia,47916e3cc004094a03bb8c9ffeeea04bgd2rrnry.html)
 </p>
 
 <p align="left">
