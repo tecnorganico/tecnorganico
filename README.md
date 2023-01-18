@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💬 Pode me chamar de Ramires, sou um educador popular(mas não famoso) em tecnologia. Estudo Tecnologias Educacionais na graduação e trabalho ativamente pela construção de uma educação tecnológica popular, por meio do coletivo <a href="https://github.com/InfoCria">InfoCria</a>, pesquisando e educando tecnologia para minha comunidade em Imbariê e quando possível em outras favelas do Rio. Atualmente sou educador na Redes da Maré e no Instituto Bola Pra Frente. 
+  💬 Pode me chamar de Ramires, sou um educador popular(mas não famoso) em tecnologia. Sou formado Tecnologias Educacionais e trabalho ativamente pela construção de uma educação tecnológica popular, por meio do coletivo <a href="https://github.com/InfoCria">InfoCria</a>, pesquisando e educando tecnologia para minha comunidade em Imbariê e quando possível em outras favelas do Rio. Atualmente sou educador em tecnologia, na Redes da Maré.
 </p>
 
 <p align="left">
