@@ -1,19 +1,22 @@
 ### Hi! 👋
 
-I'm **Rafael Ramires**, an **IT Support professional** based in Brazil.
+I'm **Ramires Baptista**, an **civic and social technologist** based in Brazil.
 
 I focus on:
 
+* Web applications for civic purposes
+* Local-first software
+* Software, hardware and apps aggregation for social good
 * Technical support and troubleshooting
 * User onboarding and documentation
 * Remote support readiness
-* Basic system automation (PowerShell, Bash, macOS)
+* System automation (PowerShell, Bash, macOS)
 
 This GitHub contains practical examples of:
 
-* IT Support documentation
-* Troubleshooting guides
-* System diagnostic scripts
+* Apps that I worked on
+* My study path to always be a better technologist
+* Solutions that I found interest to share
 
 💼 LinkedIn: [https://www.linkedin.com/in/ramiresbaptista/](https://www.linkedin.com/in/ramiresbaptista/)
 
