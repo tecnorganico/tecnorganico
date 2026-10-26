@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm **Ramires Baptista**, a **civic and social technologist** based in Brazil.
+I'm **Raffael Baptista**, a **civic and social technologist** based in Brazil.
 
 I focus on:
 
