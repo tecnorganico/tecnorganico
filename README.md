@@ -1,23 +1,22 @@
-### Hi! 👋
+# Raffael Baptista
 
-I'm **Raffael Baptista**, a **civic and social technologist** based in Brazil.
+**IT support and civic technology · Working toward a career in DevOps**
 
-I focus on:
+I'm a technologist based in Brazil. I enjoy figuring out why something stopped working, helping people get back on track, and writing down the fix so the next person can use it too.
 
-* Web applications for civic purposes
-* Local-first software
-* Software, hardware and apps aggregation for social good
-* Technical support and troubleshooting
-* User onboarding and documentation
-* Remote support readiness
-* System automation (PowerShell, Bash, macOS)
+## What I'm working toward
 
-This GitHub contains practical examples of:
+I'm pursuing an **IT Support Specialist** role. My focus is on troubleshooting, remote support, and writing guides people can follow when they're already dealing with a problem.
 
-* Apps that I worked on
-* My study path to always be a better technologist
-* Solutions that I found interest to share
+My long-term goal is to become a **DevOps Engineer**. I'm building toward it by studying Linux and networking, practicing shell scripting, and using GitHub Actions to run checks and publish websites. I want to bring what I learn in support into the way I build and run systems.
 
-💼 LinkedIn: [https://www.linkedin.com/in/ramiresbaptista/](https://www.linkedin.com/in/ramiresbaptista/)
+## Selected projects
 
-*Currently seeking remote IT Support opportunities.*
+- **[IT Support Portfolio](https://github.com/tecnorganico/it-support-portfolio)** — Troubleshooting guides, onboarding notes, and small diagnostic scripts for common help desk tasks, including connectivity issues and Windows recovery.
+- **[Nerd de Aluguel](https://github.com/tecnorganico/nerd-de-aluguel)** — The site for my tech support service. It includes a remote support page that helps clients find the right RustDesk download for their device.
+- **[Entrelinhas](https://github.com/tecnorganico/entrelinhas)** — A mobile-first card deck inspired by Nonviolent Communication. It runs in a single HTML file and lets people search, filter, or draw a card.
+- **[InfoCria](https://tecnorganico.github.io/infocria-site/)** — A digital education initiative. The public site uses Astro and GitHub Pages, with Playwright and axe-core checks for accessibility.
+
+## Get in touch
+
+I'm open to remote IT support opportunities. You can find me on [LinkedIn](https://www.linkedin.com/in/ramiresbaptista/).
